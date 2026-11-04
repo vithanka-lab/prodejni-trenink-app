@@ -1,3 +1,3 @@
 # Prodejní trénink
 
-Sestavená verze aplikace pro zkoušení na mobilu. Data a nahrávky zůstávají jen v zařízení uživatele.
+Sestavená verze aplikace (jen pro pozvané). Data a nahrávky zůstávají v zařízení uživatele.
